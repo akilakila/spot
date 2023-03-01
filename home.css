@@ -4,7 +4,7 @@ body {
 #hero {
     background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.1)),
     url('https://cdn.wallpapersafari.com/59/37/G3TQKr.jpg');
-    height: 900px;
+    height: 700px;
     width: 1420px;
     background-size: cover;
     color: #fff;
@@ -58,7 +58,12 @@ nav ul li {
     transition: all .3s ease;
 }
 
+.about {
+  text-align: center;
+}
+
 .container {
     max-width: 600px;
     margin: 0 auto;
+    margin-bottom: 200px;
 }
