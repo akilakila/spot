@@ -1,3 +1,4 @@
-# spot
+# Spot
 
-simple frontend website to compare music profiles
+Website to compare music preferences, and test your friends on how well they know you!
+
