@@ -33,7 +33,7 @@ nav ul li {
 .container button {
     font-size: 1rem;
     color: #fff;
-    background-color: #ffbc98;
+    background-color: #60afff;
     border-color: #000000;
     padding: .3rem 2rem;
     cursor: pointer;
@@ -51,7 +51,7 @@ nav ul li {
 .content button {
     font-size: 2rem;
     color: #fff;
-    background-color: #ffbc98;
+    background-color: #60afff;
     border: none;
     padding: .5rem 2rem;
     cursor: pointer;
